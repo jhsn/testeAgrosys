@@ -1,0 +1,18 @@
+Rodar o projeto localmente:
+    - Abra a pasta no VSCode e clique em Go Live.
+
+Instruções de uso:
+    - Ao acessar a tela de Login vai ser criado automaticamente o banco de dados dbagrosys
+        - Será criado as tabelas login, clientes, endereços
+        - Já terá cadastrado automaticamente um usuário, um cliente e dois endereços para esse cliente
+        - Dados para o primeiro acesso: admin/123456.
+    - Se desejar criar um usuário novo, cadastre-se seguindo o link na tela de login
+        - Inserindo Usuário e Senha e após clique em cadastrar.
+    - Será redirecionado automaticamente para tela de login 
+    - Acesse com a conta criada
+
+Menu:
+    - Home vai para tela inicial.
+    - Cadastro onde é criado os clientes
+    - Configurações onde é exportado o banco de dados
+    - Sair onde é feito o logoff do sistema voltando para tela de login
